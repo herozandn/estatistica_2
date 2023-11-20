@@ -15,7 +15,7 @@ Tudo isso aplicado ao _Campeonato Brasileiro_.
 
 ### Tópicos :clipboard:	
 ---
-- [ ] Número de jogos até a primeira vitória :soccer:	
+- [x] Número de jogos até a primeira vitória :soccer:	
    *   **Geométrica**
 - [ ] Distribuição de pontuações em uma liga :goal_net:
    *   **Normal**
