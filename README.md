@@ -38,3 +38,7 @@ Xg (Gols esperados) | Prever o número de gols em um jogo com base na média de 
 Tempo médio de um gol até o outro | Modelar o tempo decorrido entre gols em uma partida de futebol, considerando que os gols ocorrem como eventos sucessivos de um processo de Poisson.
 Média de Gols por Jogo | Calcule um intervalo de confiança para a média de gols marcados por jogo por uma equipe em uma temporada.
 Diferença na Distribuição de Gols em Casa e Fora | Use um teste de diferença de médias para comparar a distribuição de gols em casa e fora.
+
+##### Apresentação :film_projector:	
+---
+[Slides](https://www.canva.com/design/DAF0P6P-S10/UnQMh2cXbDAIVhXVvGcriQ/edit?utm_content=DAF0P6P-S10&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
