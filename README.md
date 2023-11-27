@@ -19,7 +19,7 @@ Tudo isso aplicado ao _Campeonato Brasileiro_.
    *   **Geométrica**
 - [ ] Distribuição de pontuações em uma liga :goal_net:
    *   **Normal**
-- [ ] Xg (Gols esperados)  :two:	- :zero:
+- [x] Xg (Gols esperados)  :two:	- :zero:
    *   **Poisson**
 - [ ] Tempo médio de um gol até o outro :stadium:
    *   **Exponencial**
