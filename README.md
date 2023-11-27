@@ -19,7 +19,7 @@ Tudo isso aplicado ao _Campeonato Brasileiro_.
    *   **Geométrica**
 - [ ] Distribuição de pontuações em uma liga :goal_net:
    *   **Normal**
-- [ ] Xg (Gols esperados)  :two:	- :zero:
+- [x] Xg (Gols esperados)  :two:	- :zero:
    *   **Poisson**
 - [ ] Tempo médio de um gol até o outro :stadium:
    *   **Exponencial**
@@ -32,7 +32,7 @@ Tudo isso aplicado ao _Campeonato Brasileiro_.
 ---
 Objetivo | Instruções
 --- | ---
-Número de gols até a primeira vitória | Modelar o número de jogos que uma equipe leva para obter sua primeira vitória em uma temporada. 
+Número de jogos até a primeira vitória | Modelar o número de jogos que uma equipe leva para obter sua primeira vitória em uma temporada. 
 Distribuição de pontuações em uma liga | A distribuição de pontos de equipes em uma liga ao longo de uma temporada pode ser aproximada por uma distribuição normal.
 Xg (Gols esperados) | Prever o número de gols em um jogo com base na média de gols por jogo de uma equipe.
 Tempo médio de um gol até o outro | Modelar o tempo decorrido entre gols em uma partida de futebol, considerando que os gols ocorrem como eventos sucessivos de um processo de Poisson.
