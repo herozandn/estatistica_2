@@ -19,8 +19,6 @@ Tudo isso aplicado ao _Campeonato Brasileiro_.
    *   **Geométrica**
 - [x] Xg (Gols esperados)  :two:	- :zero:
    *   **Poisson**
-- [ ] Tempo médio de um gol até o outro :stadium:
-   *   **Exponencial**
 - [ ] Média de gols por jogo:
    *   **Intervalo de confiança**
 - [ ] Diferença na Distribuição de Gols em Casa e Fora:
@@ -32,7 +30,6 @@ Objetivo | Instruções
 --- | ---
 Número de jogos até a primeira vitória | Modelar o número de jogos que uma equipe leva para obter sua primeira vitória em uma temporada. 
 Xg (Gols esperados) | Prever o número de gols em um jogo com base na média de gols por jogo de uma equipe.
-Tempo médio de um gol até o outro | Modelar o tempo decorrido entre gols em uma partida de futebol, considerando que os gols ocorrem como eventos sucessivos de um processo de Poisson.
 Média de Gols por Jogo | Calcule um intervalo de confiança para a média de gols marcados por jogo por uma equipe em uma temporada.
 Diferença na Distribuição de Gols em Casa e Fora | Use um teste de diferença de médias para comparar a distribuição de gols em casa e fora.
 
